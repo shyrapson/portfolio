@@ -9,6 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://shyrapson.github.io/portfolio"
-
+  "homepage": "https://shyrapson.github.io/portfolio",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
